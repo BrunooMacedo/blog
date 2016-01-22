@@ -1,4 +1,3 @@
-<script type='text/javascript'>
 jQuery(&quot;document&quot;).ready(function($){
     var pull        = $(&#39;#pull&#39;);  
         menu        = $(&#39;nav ul&#39;);  
@@ -33,4 +32,3 @@ thumbnails[i].height = size;
 }
 changeThumbSize(&quot;PopularPosts1&quot;,0);    
 }); 
-</script>
